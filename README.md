@@ -1,4 +1,4 @@
-This is an incomplete solution to the scrabble stepladder challenge. I thought the description was interesting and started tackling it last night. Here's the challenge description:
+Still a work in progress, started last night. Here's the challenge description:
 ----------------------------------------------------------------------------- 
 
 A word ladder is a sequence of words in which each subsequent word is formed by replacing exactly one letter from the previous word with a different letter. Words may not be repeated in a word ladder. For example the following sequence is a valid word ladder:
